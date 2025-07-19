@@ -3,7 +3,7 @@
 
 # 🔥 Nike Brand Redesign - AI Powered Modern Web Makeover<br>
 
-A modern, responsive redesign of the Nike website, powered by **AI tools** and built with **Next.js**, **Tailwind CSS**, and **Strapi**/**Firebase** (choose the one you used). This project combines cutting-edge web development practices with AI-assisted branding and design to create a sleek, user-friendly shopping experience.<br><br>
+A modern, responsive redesign of the Nike website, powered by **AI tools** and built with **Next.js**, **Tailwind CSS**. This project combines cutting-edge web development practices with AI-assisted branding and design to create a sleek, user-friendly shopping experience.<br><br>
 
 ---
 
